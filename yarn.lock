@@ -1388,6 +1388,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"eslint-config-airbnb-typescript@npm:14.0.0":
+  version: 14.0.0
+  resolution: "eslint-config-airbnb-typescript@npm:14.0.0"
+  peerDependencies:
+    "@typescript-eslint/eslint-plugin": ^4.29.3
+    "@typescript-eslint/parser": ^4.29.3
+  checksum: 0544e55cd651e0217a09faa257a86689fdaa056bb6e0217ea38345c3c083ddeb5eb59a23b745884637d8e7c338acaa4459b08c151226c65c61b308c58e8a1d3a
+  languageName: node
+  linkType: hard
+
 "eslint-config-prettier@npm:8.3.0":
   version: 8.3.0
   resolution: "eslint-config-prettier@npm:8.3.0"
@@ -4102,6 +4112,7 @@ fsevents@~2.3.2:
     "@yarnpkg/pnpify": 3.0.1-rc.5
     eslint: 7.32.0
     eslint-config-airbnb-base: 14.2.1
+    eslint-config-airbnb-typescript: 14.0.0
     eslint-config-prettier: 8.3.0
     eslint-plugin-import: 2.24.2
     eslint-plugin-prettier: 4.0.0
