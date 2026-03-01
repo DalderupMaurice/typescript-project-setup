@@ -310,10 +310,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.18.119":
-  version: 16.18.119
-  resolution: "@types/node@npm:16.18.119"
-  checksum: e473300cc17a77f1369262b21caf87df1899c3a1a320d4200e464adbf12c23bb923b956499332c57ad748a27956059484732b58765f7bae3be572f4819599243
+"@types/node@npm:16.18.126":
+  version: 16.18.126
+  resolution: "@types/node@npm:16.18.126"
+  checksum: 86112e7499f8a4d1bb60696cab0bf464adf3c141fca4bc5451e8f3aba5736529b76d4b4396edb21e5d7c19592852f7d6cb81ee70074fd13bde2db2d0db720467
   languageName: node
   linkType: hard
 
@@ -5044,7 +5044,7 @@ resolve@^1.0.0:
   version: 0.0.0-use.local
   resolution: "typescript-project-setup@workspace:."
   dependencies:
-    "@types/node": 16.18.119
+    "@types/node": 16.18.126
     "@typescript-eslint/eslint-plugin": 5.62.0
     "@typescript-eslint/parser": 5.62.0
     "@yarnpkg/pnpify": 3.1.8
